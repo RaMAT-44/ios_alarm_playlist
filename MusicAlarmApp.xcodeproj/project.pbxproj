@@ -18,7 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A1234567890123456789012A /* MusicAlarmApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MusicAlarmApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A1234567890123456789012Z /* MusicAlarmApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MusicAlarmApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1234567890123456789012B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A1234567890123456789012D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		A1234567890123456789012F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -68,7 +68,7 @@
 		A1234567890123456789012J /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A1234567890123456789012A /* MusicAlarmApp.app */,
+				A1234567890123456789012Z /* MusicAlarmApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -90,7 +90,7 @@
 			);
 			name = MusicAlarmApp;
 			productName = MusicAlarmApp;
-			productReference = A1234567890123456789012A /* MusicAlarmApp.app */;
+			productReference = A1234567890123456789012Z /* MusicAlarmApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
